@@ -2,11 +2,11 @@
 
 A set of example programs written in Fortran
 
-## Requirements
+## Requirements
 
 - A Fortran compiler (e.g. gfortran)
 
-## Usage
+## Usage
 
 To compile and run the examples using gfortran, use the following commands:
 
@@ -17,6 +17,6 @@ gfotran src/<PROGRAM>.f90
 
 `<PROGRAM>` is the name of the program you want to compile and run.
 
-## License
+## License
 
 This project is licenced under the unlicense - see the [LICENCE](LICENCE) file for details.
